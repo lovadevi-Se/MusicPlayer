@@ -1,3 +1,5 @@
+## Music Player-- Mini Project
+
 This project is Console-based Music Player application developed using java.it allows users to manage songs and playlist,and perform basic music player operations.the project follows object-oriented programming principle for better structure and maintainability.
 
 
