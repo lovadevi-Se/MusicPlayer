@@ -9,8 +9,9 @@ This project is Console-based Music Player application developed using java.it a
 
 ## Technologied 
 
-Language : Java
-Concept used:
+## Language : Java  ,
+
+## Concept used:
 --> Object-Oriented Programming
 --> Interface & Implementation
 --> Collections(list,ArrayList)
