@@ -7,11 +7,11 @@ This project is Console-based Music Player application developed using java.it a
 --> Play songs
 --> view song details
 
-## Technologied 
+## Technologies
 
-## Language : Java  ,
+ Language : Java  ,
 
-## Concept used:
+ Concept used:
 --> Object-Oriented Programming
 --> Interface & Implementation
 --> Collections(list,ArrayList)
