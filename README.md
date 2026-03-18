@@ -2,9 +2,12 @@ This project is Console-based Music Player application developed using java.it a
 
 
 ## FEATURES
---> add and manage songs,
---> create and manage playlist,
---> Play songs,
+--> add and manage songs 
+
+--> create and manage playlist 
+
+--> Play songs 
+
 --> view song details
 
 ## Technologies
